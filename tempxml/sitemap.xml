@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><soap:Body><FlightAvailabilityResponse xmlns="http://apiapps.riyawings.com/"><FlightAvailabilityResult>&lt;?xml version="1.0" encoding="utf-8" standalone="no"?&gt;
+&lt;AvailabilityResponse&gt;
+  &lt;ResultCode&gt;
+    &lt;Status&gt;0&lt;/Status&gt;
+    &lt;Error&gt;
+      &lt;Description&gt;Your requested IP address is Invalid. Please check your IP address.&lt;/Description&gt;
+    &lt;/Error&gt;
+  &lt;/ResultCode&gt;
+&lt;/AvailabilityResponse&gt;</FlightAvailabilityResult></FlightAvailabilityResponse></soap:Body></soap:Envelope>

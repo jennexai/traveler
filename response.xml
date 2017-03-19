@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<AvailabilityResponse>
+  <TrackId>RA6CE38BD47A6B4ADE87F25C2DEB59E3B720170214121124</TrackId>
+  <ItinearyDetails>
+    <Items>
+      <FlightDetails>
+        <FlightID>5846</FlightID>
+        <CarrierCode>6E</CarrierCode>
+        <Origin>AMD</Origin>
+        <Destination>HYD</Destination>
+        <FlightNum>259</FlightNum>
+        <DepartureDateTime>30/03/2017 05:00</DepartureDateTime>
+        <ArrivalDateTime>30/03/2017 06:40</ArrivalDateTime>
+        <Duration>01 Hrs40 Mins</Duration>
+        <OrgTerminal>1</OrgTerminal>
+        <DesTerminal />
+        <AirCraftType>320</AirCraftType>
+        <NumberofStops>0</NumberofStops>
+        <Via />
+        <ValidatingCarrier>6E</ValidatingCarrier>
+        <AirlineCategory>LCC</AirlineCategory>
+        <Seats />
+        <AllowBaggage />
+        <ClassCode>L</ClassCode>
+        <ClassCodeDesc />
+        <FareBasisCode>L014AP</FareBasisCode>
+        <BreakPoint />
+        <CurrencyCode>INR</CurrencyCode>
+      </FlightDetails>
+      <FareDescription>
+        <PaxFareDetails>
+          <PaxType>ADT</PaxType>
+          <BasicAmount>1578.00</BasicAmount>
+          <TotalTaxAmount>619.00</TotalTaxAmount>
+          <FuelSurcharge>100.00</FuelSurcharge>
+          <Commission>0.00</Commission>
+          <OtherInfo>
+            <Item>
+              <TaxCode>YQ</TaxCode>
+              <Amount>100.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>TTF</TaxCode>
+              <Amount>59.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>PSF</TaxCode>
+              <Amount>233.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>UDF</TaxCode>
+              <Amount>124.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>KKCT</TaxCode>
+              <Amount>3.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>SBCT</TaxCode>
+              <Amount>3.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>JN</TaxCode>
+              <Amount>97.00</Amount>
+            </Item>
+            <TransactionFee>0.00</TransactionFee>
+            <ServiceTax>0.00</ServiceTax>
+            <GrossAmount>2197.00</GrossAmount>
+          </OtherInfo>
+        </PaxFareDetails>
+      </FareDescription>
+    </Items>
+    <Items>
+      <FlightDetails>
+        <FlightID>5847</FlightID>
+        <CarrierCode>6E</CarrierCode>
+        <Origin>AMD</Origin>
+        <Destination>HYD</Destination>
+        <FlightNum>259</FlightNum>
+        <DepartureDateTime>30/03/2017 05:00</DepartureDateTime>
+        <ArrivalDateTime>30/03/2017 06:40</ArrivalDateTime>
+        <Duration>01 Hrs40 Mins</Duration>
+        <OrgTerminal>1</OrgTerminal>
+        <DesTerminal />
+        <AirCraftType>320</AirCraftType>
+        <NumberofStops>0</NumberofStops>
+        <Via />
+        <ValidatingCarrier>6E</ValidatingCarrier>
+        <AirlineCategory>LCC</AirlineCategory>
+        <Seats />
+        <AllowBaggage />
+        <ClassCode>P</ClassCode>
+        <ClassCodeDesc>NON-REFUNDABLE</ClassCodeDesc>
+        <FareBasisCode>PSPL</FareBasisCode>
+        <BreakPoint />
+        <CurrencyCode>INR</CurrencyCode>
+      </FlightDetails>
+      <FareDescription>
+        <PaxFareDetails>
+          <PaxType>ADT</PaxType>
+          <BasicAmount>1750.00</BasicAmount>
+          <TotalTaxAmount>527.00</TotalTaxAmount>
+          <FuelSurcharge>0.00</FuelSurcharge>
+          <Commission>0.00</Commission>
+          <OtherInfo>
+            <Item>
+              <TaxCode>TTF</TaxCode>
+              <Amount>61.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>PSF</TaxCode>
+              <Amount>233.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>UDF</TaxCode>
+              <Amount>124.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>KKCT</TaxCode>
+              <Amount>4.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>SBCT</TaxCode>
+              <Amount>4.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>JN</TaxCode>
+              <Amount>101.00</Amount>
+            </Item>
+            <TransactionFee>0.00</TransactionFee>
+            <ServiceTax>0.00</ServiceTax>
+            <GrossAmount>2277.00</GrossAmount>
+          </OtherInfo>
+        </PaxFareDetails>
+      </FareDescription>
+    </Items>
+    <Items>
+      <FlightDetails>
+        <FlightID>5848</FlightID>
+        <CarrierCode>6E</CarrierCode>
+        <Origin>AMD</Origin>
+        <Destination>HYD</Destination>
+        <FlightNum>879</FlightNum>
+        <DepartureDateTime>30/03/2017 06:25</DepartureDateTime>
+        <ArrivalDateTime>30/03/2017 08:15</ArrivalDateTime>
+        <Duration>01 Hrs50 Mins</Duration>
+        <OrgTerminal />
+        <DesTerminal />
+        <AirCraftType>320</AirCraftType>
+        <NumberofStops>0</NumberofStops>
+        <Via />
+        <ValidatingCarrier>6E</ValidatingCarrier>
+        <AirlineCategory>LCC</AirlineCategory>
+        <Seats />
+        <AllowBaggage />
+        <ClassCode>L</ClassCode>
+        <ClassCodeDesc />
+        <FareBasisCode>L014AP</FareBasisCode>
+        <BreakPoint />
+        <CurrencyCode>INR</CurrencyCode>
+      </FlightDetails>
+      <FareDescription>
+        <PaxFareDetails>
+          <PaxType>ADT</PaxType>
+          <BasicAmount>1578.00</BasicAmount>
+          <TotalTaxAmount>619.00</TotalTaxAmount>
+          <FuelSurcharge>100.00</FuelSurcharge>
+          <Commission>0.00</Commission>
+          <OtherInfo>
+            <Item>
+              <TaxCode>YQ</TaxCode>
+              <Amount>100.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>TTF</TaxCode>
+              <Amount>59.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>PSF</TaxCode>
+              <Amount>233.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>UDF</TaxCode>
+              <Amount>124.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>KKCT</TaxCode>
+              <Amount>3.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>SBCT</TaxCode>
+              <Amount>3.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>JN</TaxCode>
+              <Amount>97.00</Amount>
+            </Item>
+            <TransactionFee>0.00</TransactionFee>
+            <ServiceTax>0.00</ServiceTax>
+            <GrossAmount>2197.00</GrossAmount>
+          </OtherInfo>
+        </PaxFareDetails>
+      </FareDescription>
+    </Items>
+    <Items>
+      <FlightDetails>
+        <FlightID>5849</FlightID>
+        <CarrierCode>6E</CarrierCode>
+        <Origin>AMD</Origin>
+        <Destination>HYD</Destination>
+        <FlightNum>879</FlightNum>
+        <DepartureDateTime>30/03/2017 06:25</DepartureDateTime>
+        <ArrivalDateTime>30/03/2017 08:15</ArrivalDateTime>
+        <Duration>01 Hrs50 Mins</Duration>
+        <OrgTerminal />
+        <DesTerminal />
+        <AirCraftType>320</AirCraftType>
+        <NumberofStops>0</NumberofStops>
+        <Via />
+        <ValidatingCarrier>6E</ValidatingCarrier>
+        <AirlineCategory>LCC</AirlineCategory>
+        <Seats />
+        <AllowBaggage />
+        <ClassCode>P</ClassCode>
+        <ClassCodeDesc>NON-REFUNDABLE</ClassCodeDesc>
+        <FareBasisCode>PSPL</FareBasisCode>
+        <BreakPoint />
+        <CurrencyCode>INR</CurrencyCode>
+      </FlightDetails>
+      <FareDescription>
+        <PaxFareDetails>
+          <PaxType>ADT</PaxType>
+          <BasicAmount>1750.00</BasicAmount>
+          <TotalTaxAmount>527.00</TotalTaxAmount>
+          <FuelSurcharge>0.00</FuelSurcharge>
+          <Commission>0.00</Commission>
+          <OtherInfo>
+            <Item>
+              <TaxCode>TTF</TaxCode>
+              <Amount>61.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>PSF</TaxCode>
+              <Amount>233.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>UDF</TaxCode>
+              <Amount>124.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>KKCT</TaxCode>
+              <Amount>4.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>SBCT</TaxCode>
+              <Amount>4.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>JN</TaxCode>
+              <Amount>101.00</Amount>
+            </Item>
+            <TransactionFee>0.00</TransactionFee>
+            <ServiceTax>0.00</ServiceTax>
+            <GrossAmount>2277.00</GrossAmount>
+          </OtherInfo>
+        </PaxFareDetails>
+      </FareDescription>
+    </Items>
+    <Items>
+      <FlightDetails>
+        <FlightID>5850</FlightID>
+        <CarrierCode>6E</CarrierCode>
+        <Origin>AMD</Origin>
+        <Destination>HYD</Destination>
+        <FlightNum>371</FlightNum>
+        <DepartureDateTime>30/03/2017 19:45</DepartureDateTime>
+        <ArrivalDateTime>30/03/2017 21:35</ArrivalDateTime>
+        <Duration>01 Hrs50 Mins</Duration>
+        <OrgTerminal>1</OrgTerminal>
+        <DesTerminal />
+        <AirCraftType>320</AirCraftType>
+        <NumberofStops>0</NumberofStops>
+        <Via />
+        <ValidatingCarrier>6E</ValidatingCarrier>
+        <AirlineCategory>LCC</AirlineCategory>
+        <Seats />
+        <AllowBaggage />
+        <ClassCode>L</ClassCode>
+        <ClassCodeDesc />
+        <FareBasisCode>L014AP</FareBasisCode>
+        <BreakPoint />
+        <CurrencyCode>INR</CurrencyCode>
+      </FlightDetails>
+      <FareDescription>
+        <PaxFareDetails>
+          <PaxType>ADT</PaxType>
+          <BasicAmount>1578.00</BasicAmount>
+          <TotalTaxAmount>619.00</TotalTaxAmount>
+          <FuelSurcharge>100.00</FuelSurcharge>
+          <Commission>0.00</Commission>
+          <OtherInfo>
+            <Item>
+              <TaxCode>YQ</TaxCode>
+              <Amount>100.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>TTF</TaxCode>
+              <Amount>59.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>PSF</TaxCode>
+              <Amount>233.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>UDF</TaxCode>
+              <Amount>124.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>KKCT</TaxCode>
+              <Amount>3.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>SBCT</TaxCode>
+              <Amount>3.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>JN</TaxCode>
+              <Amount>97.00</Amount>
+            </Item>
+            <TransactionFee>0.00</TransactionFee>
+            <ServiceTax>0.00</ServiceTax>
+            <GrossAmount>2197.00</GrossAmount>
+          </OtherInfo>
+        </PaxFareDetails>
+      </FareDescription>
+    </Items>
+    <Items>
+      <FlightDetails>
+        <FlightID>5851</FlightID>
+        <CarrierCode>6E</CarrierCode>
+        <Origin>AMD</Origin>
+        <Destination>HYD</Destination>
+        <FlightNum>371</FlightNum>
+        <DepartureDateTime>30/03/2017 19:45</DepartureDateTime>
+        <ArrivalDateTime>30/03/2017 21:35</ArrivalDateTime>
+        <Duration>01 Hrs50 Mins</Duration>
+        <OrgTerminal>1</OrgTerminal>
+        <DesTerminal />
+        <AirCraftType>320</AirCraftType>
+        <NumberofStops>0</NumberofStops>
+        <Via />
+        <ValidatingCarrier>6E</ValidatingCarrier>
+        <AirlineCategory>LCC</AirlineCategory>
+        <Seats />
+        <AllowBaggage />
+        <ClassCode>P</ClassCode>
+        <ClassCodeDesc>NON-REFUNDABLE</ClassCodeDesc>
+        <FareBasisCode>PSPL</FareBasisCode>
+        <BreakPoint />
+        <CurrencyCode>INR</CurrencyCode>
+      </FlightDetails>
+      <FareDescription>
+        <PaxFareDetails>
+          <PaxType>ADT</PaxType>
+          <BasicAmount>1750.00</BasicAmount>
+          <TotalTaxAmount>527.00</TotalTaxAmount>
+          <FuelSurcharge>0.00</FuelSurcharge>
+          <Commission>0.00</Commission>
+          <OtherInfo>
+            <Item>
+              <TaxCode>TTF</TaxCode>
+              <Amount>61.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>PSF</TaxCode>
+              <Amount>233.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>UDF</TaxCode>
+              <Amount>124.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>KKCT</TaxCode>
+              <Amount>4.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>SBCT</TaxCode>
+              <Amount>4.00</Amount>
+            </Item>
+            <Item>
+              <TaxCode>JN</TaxCode>
+              <Amount>101.00</Amount>
+            </Item>
+            <TransactionFee>0.00</TransactionFee>
+            <ServiceTax>0.00</ServiceTax>
+            <GrossAmount>2277.00</GrossAmount>
+          </OtherInfo>
+        </PaxFareDetails>
+      </FareDescription>
+    </Items>
+  </ItinearyDetails>
+</AvailabilityResponse>
